@@ -5,9 +5,9 @@ This application is made without framwork. It's just a test to try the features 
 This application can't be hosted because it uses internal Vinci autoroutes urls. The urls have been remove from the code.
 
 This application include  :
-- services call hosted on portal and arcgis server;
-- call custom API hosted on arcgis server;
-- dynamic load of WFS stream from IGN;
+- a call for services hosted on portal and arcgis server;
+- a call for custom API hosted on arcgis server;
+- dynamic load of WFS stream from IGN (parcelle cadastrales);
 - dynamic edit layer from popup;
 - a custom widget that can make localisation along the highways.
 
