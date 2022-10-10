@@ -8,6 +8,7 @@ This application include  :
 - services call from portal and arcgis server;
 - custom API hosted on arcgis server;
 - dynamic load of WFS stream from IGN;
+- dynamic edit layer from popup;
 - a custom widget that can make localisation along the highways.
 
 https://user-images.githubusercontent.com/105311321/194912334-d83c3556-d8ce-4d56-a786-38591f198fe8.mp4
