@@ -47,7 +47,7 @@
     console.log(portalA)
 
 //****************************************************************************************************************************************
-//                               Once portal is loaded, user signed in and load the application (code above)
+//                               Once portal is loaded, user signed in and load the application (code below)
 //****************************************************************************************************************************************
 
     portalA.load().then(function() {
