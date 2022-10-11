@@ -1,7 +1,7 @@
 # Test-Application-Arcgis-Javascript
 
 
-This web map application is made without framwork. It's just a test to try the features of arcgis API for Javascript version 4.+
+This web map application is made without framework. It's just a test to try the features of arcgis API for Javascript version 4.+
 This application can't be hosted because it uses internal Vinci autoroutes urls. The urls have been remove from the code.
 
 This application include  :
